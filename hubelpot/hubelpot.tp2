@@ -69,6 +69,10 @@ LANGUAGE ~Russian (translation by Austin)~
          ~russian~
          ~hubelpot/lang/russian/setup.tra~
 
+LANGUAGE ~Simplified Chinese~
+         ~schinese~
+         ~hubelpot/lang/schinese/install.tra~ 
+         ~hubelpot/lang/schinese/setup.tra~
 
 /* =================================================== *
  *  Hubelpot Thistledown, the Vegetable Merchant NPC)  *
